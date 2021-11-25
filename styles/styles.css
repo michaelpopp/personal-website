@@ -1,4 +1,5 @@
 body {
+    font-family: Georgia, "Times New Roman", serif;
     color: #f8f8f2;
     background-color: #282a36;
 }
@@ -6,7 +7,7 @@ body {
 .main-container {
     padding: 20px;
     margin: auto;
-    width: 60%;
+    width: 600px;
     margin-top: 150px;
     border: solid;
     border-color: #bd93f9;
@@ -47,4 +48,16 @@ a {
 
 h3 {
     font-weight: bold;
+    margin: 5px;
+}
+
+ul {
+    margin-top: 5px;
+    padding-left: 20px;
+    list-style-type: circle;
+}
+
+li {
+    margin: 3px;
+    padding: 3px;
 }
