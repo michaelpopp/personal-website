@@ -1,0 +1,11 @@
+body {
+    color: #f8f8f2;
+    background-color: #282a36;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
