@@ -41,6 +41,10 @@ body {
     color: #f8f8f2;
 }
 
+.blog-list li {
+    padding-bottom: 10px;
+}
+
 .blog-title {
     width: 100%;
     color: #bd93f9;
@@ -49,3 +53,9 @@ body {
     font-size: 1.2em;
     text-indent: 40px;
 }
+
+a {
+    color: #f8f8f2;
+    text-decoration: none;
+}
+
