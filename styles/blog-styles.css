@@ -1,7 +1,7 @@
 body {
     font-family: Georgia, "Times New Roman", serif;
+    background-color: #282828;
     color: #f8f8f2;
-    background-color: #282a36;
 }
 
 .main-container {
@@ -11,7 +11,7 @@ body {
     width: 600px;
     margin-top: 150px;
     border: solid;
-    border-color: #bd93f9;
+    border-color: #d79921;
 
     display: flex;
     flex-direction: column;
@@ -27,18 +27,17 @@ body {
     width: 95%;
 }
 .blog-list-title {
-    color: #bd93f9;
+    color: #d79921; 
 }
 
 .blog-list {
-    color: #f8f8f2;
     list-style-type: circle;
 }
 
 .blog-list a {
+    color: #ebdbb2;
     font-size: 1.4em;
     text-decoration: none;
-    color: #f8f8f2;
 }
 
 .blog-list li {
@@ -47,15 +46,16 @@ body {
 
 .blog-title {
     width: 100%;
-    color: #bd93f9;
+    color: #d79921;
 }
 .blog-content {
+    color: #ebdbb2;
     font-size: 1.2em;
     text-indent: 40px;
 }
 
 a {
-    color: #f8f8f2;
+    color: #ebdbb2;
     text-decoration: none;
 }
 
